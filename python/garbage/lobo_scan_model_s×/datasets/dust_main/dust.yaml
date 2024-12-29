@@ -1,0 +1,12 @@
+#読み込み(dust_mainで固定すること！！！)
+path: ../datasets/dust_main
+train: images/train
+val: images/val
+
+#classes
+names:
+  0: redcap
+  1: bluecap
+  2: blackcap
+  3: whitecap
+  4: controller

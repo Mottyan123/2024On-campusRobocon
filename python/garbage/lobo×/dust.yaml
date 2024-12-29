@@ -1,0 +1,13 @@
+#読み込み
+path: ../datasets/dust
+train: images/train
+val: images/val
+
+#classes
+names:
+  0: redcap
+  1: bluecap
+  2: blackcap
+  3: controller
+
+
